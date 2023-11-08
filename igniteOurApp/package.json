@@ -7,5 +7,8 @@
     "test": "jest"
   },
   "author": "roshan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
 }
