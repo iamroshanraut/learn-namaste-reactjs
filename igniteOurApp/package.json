@@ -2,7 +2,6 @@
   "name": "igniteourapp",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
   "scripts": {
     "test": "jest"
   },
@@ -10,5 +9,9 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.10.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
